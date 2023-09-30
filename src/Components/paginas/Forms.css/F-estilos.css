@@ -1,0 +1,280 @@
+.section1{
+	display: flex;
+	width: 600px;
+	height: 430px;
+}
+
+.section1 img{
+	width: 44.1%;
+	flex-grow: 1;
+	object-fit: cover;
+	opacity: .8;
+	transition: .5 ease;
+	margin: 0 auto;
+}
+
+.section1 img hover{
+	cursor: crosshair;
+	width: 300px;
+	opacity: 1;
+	filter: contrast(120%);
+}
+
+.title{
+	margin-bottom: 40px;
+	font-size: 60px;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: white;
+}
+p{
+	margin-bottom: 40px;
+	font-size: 18px;
+	color:  white;
+}
+.content{
+	height: 80vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.section1 {
+	display: flex;
+	width: 600px;
+	height: 430px;
+  }
+  
+  .section1 img {
+	width: 44.1%;
+	flex-grow: 1;
+	object-fit: cover;
+	opacity: 0.8;
+	transition: 0.5s ease;
+	margin: 0 auto;
+  }
+  
+  /* Estilos para el efecto de hover en las imágenes */
+  .section1 img:hover {
+	cursor: crosshair;
+	width: 300px;
+	opacity: 1;
+	filter: contrast(120%);
+  }
+  
+
+.title{
+	margin-bottom: 40px;
+	font-size: 60px;
+	font-weight: 600;
+	text-transform: uppercase;
+	color: white;
+}
+p{
+	margin-bottom: 40px;
+	font-size: 18px;
+	color:  white;
+}
+.content{
+	height: 80vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.sau{
+	background: #24303c;
+}
+.box-container{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	text-align: center;
+}
+.box-container .box{
+	height: 11rem;
+	width: 17rem;
+	background:  #1f53c5;
+	text-align: center;
+	border-radius: 1rem;
+	box-shadow: 0 .3rem 5 rem rgba(62, 100, 53, 0.5);
+	margin: 2rem;	
+}
+.box-container .box i{
+	height: 3rem;
+	width: 3rem;
+	line-height: 3rem;
+	text-align: center;
+	border-radius: 50%;
+	color:  white;
+	background: red;
+	font-size: 2rem;
+	margin: 1 rem 0;
+}
+
+.logo2{
+	width: 100px;
+	height: auto;
+}
+.username {
+	color: #fff;
+}
+
+.hola	 {
+	height: 5px;
+	text-align: right;
+	font-size: 18px;
+}
+
+form {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.button{
+	width: 100%;
+	background-color: #1f53c5;
+	border: none;
+	padding: 12px;
+	color: white;
+	margin: 1;
+}
+
+
+form {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.final{
+	background: #435261;
+	text-align: center;
+	align-items: center;
+  height: 100px;
+}
+
+.button2{
+	width: 100%;
+	background-color: #314e25;
+	border: none;
+	padding: 12px;
+	color: white;
+	margin: 1;
+}
+.linea {
+  margin: 0px 40px;
+  width: 100px;
+  border-top: 1px solid #999;
+  position: relative;
+  top: 15px;
+  float: left;
+}
+
+.leyenda {
+  font-weight: bold;
+  float: left;
+}
+
+.patron {
+  width: 400px;
+  margin: auto;
+}
+
+.cuadro {
+  width: 100%;
+  height: 650px;
+  position: relative;
+  background: #24303c;
+  float: left;
+  text-align: center;
+}
+
+.titulo {
+  background: linear-gradient(45deg, rgb(0, 195, 255), rgb(255, 0, 0));
+  color: transparent;
+  font-size: 36px;
+}
+
+.boton {
+  width: 30%;
+}
+
+.Letras {
+  color: black;
+}
+
+.entradas {
+  border-radius: 10px;
+}
+
+.cuadrodos {
+  width: 100%;
+  height: 583px;
+  position: relative;
+  background: linear-gradient(rgb(0, 0, 0), rgb(255, 255, 255));
+  float: left;
+
+  text-align: center;
+}
+
+.contact{
+  padding-top: 20px;
+  background: #24303c;
+  padding-bottom: 0;;
+}
+
+.price{
+  background: url(./asset/imagen6.png) no-repeat center;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+}
+
+.contact {
+  padding-top: 20px;
+  background: #24303c;
+  padding-bottom: 0;
+
+}
+
+.form-register{
+	width: 400px;
+	background: #577fa7;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 4px;
+	font-family: 'calibri';
+	color: white;
+}
+
+h3 {
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+
+.controls{
+	width: 100%;
+	background: #24303c;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border:  1px solid #790505;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 18px;
+}
+
+.botons{
+	width: 100%;
+	background: #1f53c5;
+	border: none;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 16px;
+}
+

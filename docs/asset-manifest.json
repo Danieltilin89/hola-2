@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04f93515.css",
+    "main.js": "/static/js/main.ee3b1051.js",
+    "static/js/787.75b94f2b.chunk.js": "/static/js/787.75b94f2b.chunk.js",
+    "static/media/imagen3.png": "/static/media/imagen3.3e3d14fe8beafa7630ec.png",
+    "static/media/imagen6.png": "/static/media/imagen6.1570af9eb03cde2567d0.png",
+    "static/media/imagen4.png": "/static/media/imagen4.9eede1f7e016a05f1889.png",
+    "static/media/imagen5.png": "/static/media/imagen5.80728b50ca807ca2ba5e.png",
+    "static/media/imagen1.png": "/static/media/imagen1.8fc3ad7ae2083e9a404d.png",
+    "static/media/Labores-removebg-preview.png": "/static/media/Labores-removebg-preview.6791fc4ace88192edeb7.png",
+    "static/media/imagen2.png": "/static/media/imagen2.cedd7b993b8afa8ec346.png",
+    "index.html": "/index.html",
+    "main.04f93515.css.map": "/static/css/main.04f93515.css.map",
+    "main.ee3b1051.js.map": "/static/js/main.ee3b1051.js.map",
+    "787.75b94f2b.chunk.js.map": "/static/js/787.75b94f2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04f93515.css",
+    "static/js/main.ee3b1051.js"
+  ]
+}
